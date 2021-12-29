@@ -1,2 +1,2 @@
-# React-App-With-Register-Login-SignUp-Github-UserSearch
+# Todo-List-Uding-Redux-Thunk
 Created with CodeSandbox
